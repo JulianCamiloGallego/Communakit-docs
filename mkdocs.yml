@@ -1,0 +1,8 @@
+site_name: Communakit Documentation
+site_url: https://Communakit-docs.com/
+nav:
+  - Project Requirements: index.md
+  - Software Design: softwaredesign.md
+  - Project Management: projectmanagement.md
+  - Teamwork: teamwork.md
+theme: readthedocs
