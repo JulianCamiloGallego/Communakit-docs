@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://Communakit-docs.com/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Communakit-docs.com/projectmanagement/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Communakit-docs.com/softwaredesign/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Communakit-docs.com/teamwork/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
