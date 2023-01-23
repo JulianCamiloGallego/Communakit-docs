@@ -1,49 +1,98 @@
-# Byblis artes cognoscere consensu summas fraterno demersit
+# Teamwork
 
-## Oblite quod exstantem es sibi sonitum adhuc
+This page provides an overview of the team and its members.
 
-Lorem markdownum comitique dextra **condeturque** vel ore matris at formae
-senectam medios! Quoque legit illo, vero, ire di dirimant quicquid movit. Rapi
-aevo; quid ortas adiit et inscripsere clamavit decebat Ausoniae omnis sua
-perspexerat quosque regis.
+## Team Canvas
 
-Occiderat quique agendum, ad mundi ero matrisque [quoque
-oranti](http://collo-in.org/necdeciderant) in. Post satiata pecorum. Cerealia
-non toris latum et usque et opes melior experiensque. Exit pudibunda nymphe,
-parilique, socios quam est teneros iras ingemuit tergaque *mirantur funeribus*.
-Postera cum litora ictu extemplo ille signa fatisque quae prima amnem.
+![Alt text](Teamcanvas.png "a title")
 
-    headerSourceName += 2 + ddr_quicktime_servlet;
-    if (isa(soundOnlineAddress, undoHoneypot, checksum(hdmiNetmaskThick))) {
-        cameraJspVertical.multimedia(runtimeTouchscreen(5, gamma_shortcut_samba,
-                ppi_standby), postFirmware + bare);
-        kilohertz -= boot;
-    }
-    flatbed_ivr_memory += link_computer + floppy;
+## Belbin Roles
 
-Sinebat foret. Ait quod crimina infelix **mox et**, tuas in manu deseruit nec.
+Source: https://www.belbin.com/about/belbin-team-roles.
 
-## Riget in convellere et stagna quo non
 
-Parens referre [stagnum](http://postquam.io/nec-hebes.php) nutat. Amas mihi regi
-luctus dixit merguntque defuerunt tempus armiger quod credere Lethaei; ultra
-[et](http://plebissororum.com/). Tritis pretiumque paene, da ope sua triformis,
-aliquis; acies. Io domas; facinusque adsere.
+| Name                      | Most Preferred | Manageable     | Least Preferred|
+| --------------------------| ---------------| ---------------| ---------------|
+| **Eric Weber**            | PL, SP, RI     | IMP, RW, CF    | CO, SH, ME     |
+| **Julian Gallego Franco** | CO, SH, CF     | ME, IMP, RI    | TW, PL, SP     |
+| **Cameron Matthew**       |                |                |                |
+| **Kashish Aggarwal**      | TW, RI, SP     | CO, PL, IMP    | SH, ME, CF     |
+| **Amman Das**             | TW, CO, SH     | ME, IMP, CF    | PL, SP, RI     |
+| **Armaan Mangat**         | ME, IMP, TW    | CF, SP, CO     | PL, SH, RI     |
 
-Dona solent non oblivia repetita festa Cynthia naides iuncti se acceptissimus
-inquit praecordiaque iram honorant admisitque. Continet exceptas saevit sed
-**spemque miram** pueroque corymbis ad *est*: in vomens inmunesque et pinnas
-Dixit. Mercede colorem fratrique vagitus sequor nocere, superos gravi [in
-facinus](http://silvarumumeros.org/tu)?
+ ### Thinking Roles
 
-- Ante absens despicere cupioque Hercule tenetur amplexu
-- Excita Teucer videt
-- Ponto iste pax pariter nuntia in siccat
+ **Plant (PL)**
+ Tends to be highly creative and good at solving problems in unconventional ways.
 
-Simillimus peremi retrahebat evinctus *armentaque et rotarum* iam non apte mille
-adiciuntque curia adunca. Vultuque dixerat sed tutus et non flaventibus stirpe
-virgo **ipsa** iubet adunca carpens. Per nudo processisse, et femineae oculos,
-sociis opta, est fuit pectora equus, tum.
+ 1. Eric Weber (preferred)
+ 2. Cameron Matthew(manageable)
 
-Demens erigitur faucibus titulum Libycas suos. Gerens Amuli ebur hector
-abstulit, et casus decolor, hanc lumen crura secundas.
+ **Monitor Evaluation (ME)**
+ Provides a logical eye, making impartial judgements where required and weighs up the team's options in a dispassionate way.
+
+ 1. Armaan Mangat (preferred)
+ 2. Julian Gallego Franco (manageable)
+ 3. Amman Das (Manageable)
+
+ **Specialist (SP)**
+ Brings in-depth knowledge of a key area to the team.
+
+ 1. Eric Weber (preferred)
+ 2. Kashish Aggarwal (preferred)
+ 2. Armaan Mangat (manageable)
+
+ ### Action Roles
+
+ **Shaper (SH)**
+ Provides the necessary drive to ensure that the team keeps moving and does not lose focus or momentum.
+
+ 1. Julian Gallego Franco (preferred)
+ 2. Amman Das (preferred)
+
+ **Implementer (IMP)**
+ Needed to plan a workable strategy and carry it out as efficiently as possible.
+
+ 1. Armaan Mangat (preferred)
+ 2. Eric Weber (manageable)
+ 3. Julian Gallego Franco (manageable)
+ 4. Kashish Aggarwal (manageable)
+ 5. Amman Das (manageable)
+
+ **Completer Finisher (CF)**
+ Most effectively used at the end of tasks to polish and scrutinise the work for errors, subjecting it to the highest standards of quality control.
+
+ 1. Julian Gallego Franco (preferred)
+ 2. Eric Weber (manageable)
+ 3. Armaan Mangat (manageable)
+ 4. Amman Das (manageable)
+
+ ### People Roles
+
+ **Resource Investigator (RI)**
+ Uses their inquisitive nature to find ideas to bring back to the team.
+ 
+ 1. Kashish Aggarwal (preferred)
+ 2. Eric Weber (preferred)
+ 3. Julian Gallego Franco (manageable)
+
+ **Teamworker (TW)**
+ Helps the team to gel, using their versatility to identify the work required and complete it on behalf of the team.
+
+ 1. Amman Das (preferred)
+ 2. Kashish Aggarwal (preferred)
+ 3. Armaan Mangat (preferred)
+
+ **Co-ordinator (CO)**
+ Needed to focus on the team's objectives, draw out team members and delegate work appropriately.
+
+ 1. Julian Gallego Franco (preferred)
+ 2. Amman Das (preferred)
+ 3. Kashish Aggarwal (manageable)
+ 4. Armaan Mangat (manageable)
+
+
+
+
+
+
