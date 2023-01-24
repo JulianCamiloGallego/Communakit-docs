@@ -14,6 +14,14 @@ This is a short description of logical entities of the domain in a UML diagram.
 
 Multiple sequence diagrams depicting the most important scenarios.
 
+![Alt text](TeacherSignLogin.png "Teacher Sign-Up and Login")
+![Alt text](Sidebar.png "Sidebar")
+![Alt text](PlayKeepData.png "Play - Keep Data")
+![Alt text](PlayJustPlay.png "Play - Just Play")
+![Alt text](Instructions.png "Instructions")
+![Alt text](HelpfulResource.png "Helpful Resources")
+![Alt text](VideoExamples.png "Video Examples")
+
 ## Low-Fidelity User interface
 
 Some low-fidelity wireframes outlining the main aspects of the app and its general navigation.
