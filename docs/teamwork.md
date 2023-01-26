@@ -15,7 +15,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
 | --------------------------| ---------------| ---------------| ---------------|
 | **Eric Weber**            | PL, SP, RI     | IMP, RW, CF    | CO, SH, ME     |
 | **Julian Gallego Franco** | CO, SH, CF     | ME, IMP, RI    | TW, PL, SP     |
-| **Cameron Matthew**       |                |                |                |
+| **Cameron Matthew**       | IMP, SP, TW    | CF, SH, RI     | CO, PL, ME     |
 | **Kashish Aggarwal**      | TW, RI, SP     | CO, PL, IMP    | SH, ME, CF     |
 | **Amman Das**             | TW, CO, SH     | ME, IMP, CF    | PL, SP, RI     |
 | **Armaan Mangat**         | ME, IMP, TW    | CF, SP, CO     | PL, SH, RI     |
@@ -26,7 +26,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
  Tends to be highly creative and good at solving problems in unconventional ways.
 
  1. Eric Weber (preferred)
- 2. Cameron Matthew(manageable)
+ 2. Kashish Aggarwal(manageable)
 
  **Monitor Evaluation (ME)**
  Provides a logical eye, making impartial judgements where required and weighs up the team's options in a dispassionate way.
@@ -39,8 +39,9 @@ Source: https://www.belbin.com/about/belbin-team-roles.
  Brings in-depth knowledge of a key area to the team.
 
  1. Eric Weber (preferred)
- 2. Kashish Aggarwal (preferred)
- 2. Armaan Mangat (manageable)
+ 2. Cameron Matthew (preferred)
+ 3. Kashish Aggarwal (preferred)
+ 4. Armaan Mangat (manageable)
 
  ### Action Roles
 
@@ -49,6 +50,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
 
  1. Julian Gallego Franco (preferred)
  2. Amman Das (preferred)
+ 3. Cameron Matthew (manageable)
 
  **Implementer (IMP)**
  Needed to plan a workable strategy and carry it out as efficiently as possible.
@@ -58,6 +60,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
  3. Julian Gallego Franco (manageable)
  4. Kashish Aggarwal (manageable)
  5. Amman Das (manageable)
+ 6. Cameron Matthew (preferred)
 
  **Completer Finisher (CF)**
  Most effectively used at the end of tasks to polish and scrutinise the work for errors, subjecting it to the highest standards of quality control.
@@ -66,6 +69,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
  2. Eric Weber (manageable)
  3. Armaan Mangat (manageable)
  4. Amman Das (manageable)
+ 5. Cameron Matthew (manageable)
 
  ### People Roles
 
@@ -75,6 +79,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
  1. Kashish Aggarwal (preferred)
  2. Eric Weber (preferred)
  3. Julian Gallego Franco (manageable)
+ 4. Cameron Matthew (managebale)
 
  **Teamworker (TW)**
  Helps the team to gel, using their versatility to identify the work required and complete it on behalf of the team.
@@ -82,6 +87,7 @@ Source: https://www.belbin.com/about/belbin-team-roles.
  1. Amman Das (preferred)
  2. Kashish Aggarwal (preferred)
  3. Armaan Mangat (preferred)
+ 4. Cameron Matthew (preferred)
 
  **Co-ordinator (CO)**
  Needed to focus on the team's objectives, draw out team members and delegate work appropriately.
